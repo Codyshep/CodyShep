@@ -3,7 +3,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/network)
 [![GitHub issues](https://img.shields.io/github/issues/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/issues)
-[![GitHub license](https://img.shields.io/github/license/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/blob/master/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/commits/master)
 
 ---
