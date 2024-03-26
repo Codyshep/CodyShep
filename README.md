@@ -1,4 +1,4 @@
-# [Your Repository Name]
+# EagleDev
 
 [![GitHub stars](https://img.shields.io/github/stars/CodyShep/your_repository.svg)](https://github.com/CodyShep/your_repository/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/CodyShep/your_repository.svg)](https://github.com/your_username/your_repository/network)
