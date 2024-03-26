@@ -1,16 +1,16 @@
 # EagleDev
 
-[![GitHub stars](https://img.shields.io/github/stars/CodyShep/your_repository.svg)](https://github.com/CodyShep/your_repository/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/CodyShep/your_repository.svg)](https://github.com/your_username/your_repository/network)
-[![GitHub issues](https://img.shields.io/github/issues/CodyShep/your_repository.svg)](https://github.com/CodyShep/your_repository/issues)
-[![GitHub license](https://img.shields.io/github/license/CodyShep/your_repository.svg)](https://github.com/CodyShep/your_repository/blob/master/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/CodyShep/your_repository.svg)](https://github.com/CodyShep/your_repository/commits/master)
+[![GitHub stars](https://img.shields.io/github/stars/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/network)
+[![GitHub issues](https://img.shields.io/github/issues/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/issues)
+[![GitHub license](https://img.shields.io/github/license/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/blob/master/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/commits/master)
 
 ---
 
 ## Overview
 
-[Your Repository Name] is a [brief description].
+Nothing to see here.
 
 ## Stats
 
