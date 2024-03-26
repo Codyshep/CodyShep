@@ -1,6 +1,6 @@
 # EagleDev
 
-[![GitHub stars](https://img.shields.io/github/stars/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/FiveM-Standalone-Ox-Target-NP4.0-Styled)
+[![GitHub stars](https://img.shields.io/github/stars/CodyShep/CodyShep.svg)](https://github.com/CodyShep/FiveM-Standalone-Ox-Target-NP4.0-Styled)
 [![GitHub forks](https://img.shields.io/github/forks/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/network)
 [![GitHub issues](https://img.shields.io/github/issues/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/commits/master)
