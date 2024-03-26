@@ -21,8 +21,3 @@ Nothing to see here.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [Your License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
