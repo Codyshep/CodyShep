@@ -1,23 +1,26 @@
-# EagleDev
+# Hi there, I'm CodyShep 👋
+### Founder of EagleDevs | FiveM Specialist
 
-[![GitHub forks](https://img.shields.io/github/forks/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/network)
-[![GitHub issues](https://img.shields.io/github/issues/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/CodyShep/CodyShep.svg)](https://github.com/CodyShep/CodyShep/commits/master)
+> "Focusing on optimization and clean code."
 
 ---
 
-## Overview
+### 🛠️ Languages & Tools
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Nothing to see here.
+---
 
-## Stats
+### 📊 GitHub Analytics
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyShep&show_icons=true&theme=dark)](https://github.com/Codyshep)
+<p align="left">
+  <img src="https://YOUR-VERCEL-URL.vercel.app/api?username=CodyShep&show_icons=true&theme=dark&count_private=true" alt="CodyShep Stats" height="180" />
+  
+  <img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=CodyShep&layout=compact&theme=dark&card_width=380" alt="Top Languages" height="180" />
+</p>
 
-## Languages
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyShep&layout=compact&theme=dark)](https://github.com/Codyshep)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request.
+### 🔗 Connect
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodyShep)
