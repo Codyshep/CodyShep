@@ -15,9 +15,9 @@
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="github-readme-stats-chi-eosin-43.vercel.app/api?username=CodyShep&show_icons=true&theme=dark&count_private=true" alt="CodyShep Stats" height="180" />
+  <img src="https://github-readme-stats-chi-eosin-43.vercel.app/api?username=CodyShep&show_icons=true&theme=dark&count_private=true" alt="CodyShep Stats" height="180" />
   
-  <img src="github-readme-stats-chi-eosin-43.vercel.app/api/top-langs/?username=CodyShep&layout=compact&theme=dark&card_width=380" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-chi-eosin-43.vercel.app/api/top-langs/?username=CodyShep&layout=compact&theme=dark&card_width=380" alt="Top Languages" height="180" />
 </p>
 
 ---
