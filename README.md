@@ -15,7 +15,6 @@
 ### 📊 GitHub Analytics
 
 <p align="left">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <img src="https://github-readme-stats-chi-eosin-43.vercel.app/api?username=CodyShep&show_icons=true&theme=radical&count_private=true" alt="CodyShep Stats" height="180" />
   
   <img src="https://github-readme-stats-chi-eosin-43.vercel.app/api/top-langs/?username=CodyShep&layout=compact&theme=radical&card_width=380" alt="Top Languages" height="180" />
