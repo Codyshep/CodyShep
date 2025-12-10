@@ -12,11 +12,11 @@ Nothing to see here.
 
 ## Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyShep&show_icons=true&theme=dark)](https://github.com/your_username)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyShep&show_icons=true&theme=dark)](https://github.com/Codyshep)
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyShep&layout=compact&theme=dark)](https://github.com/your_username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyShep&layout=compact&theme=dark)](https://github.com/Codyshep)
 
 ## Contributing
 
