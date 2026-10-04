@@ -1,5 +1,5 @@
 # Hi there, I'm CodyShep 👋
-### Founder of EagleDevs | FiveM Specialist
+### Founder of EagleDevelopment & Birdsai
 
 > "Focusing on optimization and clean code."
 
